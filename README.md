@@ -4,7 +4,7 @@
 #### Integrantes del Equipo
 | Nombre | Correo | 
 | ------ | ------ |
-| Daniel Beltrán Penagos | [dbeltranandes](https://github.com/dbeltranandes) | d.beltran@uniandes.edu.co | 
+| Daniel Beltrán Penagos | d.beltran@uniandes.edu.co | 
 | Carlos Felipe Niño Rodríguez | cf.ninor1@uniandes.edu.co | 
 
 #### Notas adicionales
