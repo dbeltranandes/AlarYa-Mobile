@@ -30,7 +30,7 @@ fun AppNavigation(navController: NavHostController) {
         composable(Screen.CreateAlarm.route) { PantallaCrearAlarma(navController) }
 
         //carlos
-        //composable(Screen.CreateAudio.route) { PantallaGrabarAudio(navController) }
+        composable(Screen.CreateAudio.route) { PantallaGrabarAudio(navController) }
         //composable(Screen.ChooseChallenge.route) { PantallaElegirDesafio(navController) }
         //composable(Screen.Success.route) { PantallaExito(navController) }
         composable(Screen.WebContext.route) { PantallaContextoWeb(navController) }
